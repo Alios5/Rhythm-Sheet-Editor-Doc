@@ -6,7 +6,7 @@ hero:
   name: "RT Sheet Editor" 
   tagline: "Rhyrhm Sheet Editor is a tool designed to simplify the creation on rhythm game." 
   image:
-    src: /Logo.png
+    src: ./Logo.png
     alt: VitePress
   actions:
     - theme: brand
@@ -17,7 +17,7 @@ hero:
       link: //epic-alios.itch.io/rt-sheet-editor
 
 features:
-  - icon:
+  - icon: 
       src: /brain.png
     title: Intuitive interface
     details: Our user-friendly interface makes it easy for users to load their music and add rhythm events with precision.

@@ -1,6 +1,6 @@
 # Create a project
-# Open a project that is not in recent projects
-# Configure this sheet at project launch 
+# Load a project
+# Configure sheet at project launch 
 # Create notes
 # Modify note creation keys
 # Moving on the sheet

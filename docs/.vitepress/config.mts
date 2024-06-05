@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "RT Sheet Editor",
   description: "Documentation",
+  base: '/Rhythm-Sheet-Editor-Doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

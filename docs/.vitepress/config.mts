@@ -26,17 +26,27 @@ export default defineConfig({
           {text: 'Sheet editor page', link: '/Sheet-editor'}
         ]
       },
-      /*{
+      {
         text: 'Tutorials and Guides',
         items:[
           {
             text: 'Guides',
             items:[
-              {text: 'Launch project', link:'/Guides/1'}
+              {text: 'Launch project', link:'/Guides/1'},
+              {text: 'Load a project', link:'/Guides/2'},
+              {text: 'Sheet', link:'/Guides/3'},
+              {text: 'Notes', link:'/Guides/4'},
+              {text: 'Music ', link:'/Guides/5'},
+              {text: 'Project management', link:'/Guides/6'},
             ]
+          },
+          {
+            text: 'Tutorial',
+            items:[]
           }
         ]
-      }*/
+      },
+      
     ],
     footer: {
       message: 'Get for Windows, MacOS and Linux',

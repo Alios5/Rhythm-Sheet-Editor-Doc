@@ -33,9 +33,9 @@ export default defineConfig({
             text: 'Guides',
             items:[
               {text: 'Launch project', link:'/Guides/1'},
+              {text: 'BPM', link:'/Guides/5'},
               {text: 'Sheet', link:'/Guides/3'},
               {text: 'Event keys', link:'/Guides/4'},
-              {text: 'Music ', link:'/Guides/5'},
               {text: 'Project management', link:'/Guides/6'},
             ]
           },

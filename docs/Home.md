@@ -1,4 +1,4 @@
-# Home page
+# Home
 
 ## Create a new project.
 

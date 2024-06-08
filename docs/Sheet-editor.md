@@ -1,4 +1,4 @@
-# Sheet editor page
+# Sheet editor
 
 ## Top bar
 

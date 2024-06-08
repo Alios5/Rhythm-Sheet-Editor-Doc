@@ -22,8 +22,8 @@ export default defineConfig({
       {
         text: 'Interface',
         items:[
-          {text: 'Home page', link: '/Home'},
-          {text: 'Sheet editor page', link: '/Sheet-editor'}
+          {text: 'Home', link: '/Home'},
+          {text: 'Sheet editor', link: '/Sheet-editor'}
         ]
       },
       {
@@ -33,9 +33,8 @@ export default defineConfig({
             text: 'Guides',
             items:[
               {text: 'Launch project', link:'/Guides/1'},
-              {text: 'Load a project', link:'/Guides/2'},
               {text: 'Sheet', link:'/Guides/3'},
-              {text: 'Notes', link:'/Guides/4'},
+              {text: 'Event keys', link:'/Guides/4'},
               {text: 'Music ', link:'/Guides/5'},
               {text: 'Project management', link:'/Guides/6'},
             ]

@@ -6,16 +6,16 @@ RT Sheet Editor is available for all major operating systems, including the late
 
 The installation instructions depend on the operating system.
 
-**Windows:**
+### Windows:
 
 Double-click on the executable.
 Click on the Next button several times, until the installation begins. This installs RT Sheet Editor, launches the app, and adds an icon to the Desktop.
 
-**macOS:**
+### macOS:
 
 Open the DMG file.
 
-**Linux (AppImage):**
+### Linux (AppImage):
 
 Open a terminal.
 Make the AppImage file executable by typing .chmod a+x RT-Sheet-Editor*.AppImage

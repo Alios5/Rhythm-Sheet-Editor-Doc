@@ -5,6 +5,9 @@ export default defineConfig({
   title: "RT Sheet Editor",
   description: "Documentation",
   base: '/Rhythm-Sheet-Editor-Doc/',
+  head: [
+    ['link', { rel: 'icon', href: './docs/public/Logo.png' }]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [

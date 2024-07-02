@@ -44,7 +44,18 @@ export default defineConfig({
           },
           {
             text: 'Tutorial',
-            items:[]
+            items:[
+              {
+                text: 'Make a game like Guitar Hero',
+                items:[
+                  {text: 'GDevelop', link:'/Guides/7'},
+                  {text: 'Construct', link:''},
+                  {text: 'Godot', link:''},
+                  {text: 'Unity', link:''},
+                  {text: 'Game Maker', link:''},
+                ]
+              },
+            ]
           }
         ]
       },
